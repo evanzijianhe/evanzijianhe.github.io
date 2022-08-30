@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zijian&#39;s Homepage</title>
+    <link>https://evanzijianhe.github.io/</link>
+    <description>Recent content on Zijian&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Aug 2022 20:00:00 -0400</lastBuildDate><atom:link href="https://evanzijianhe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋🏻‍♂️ AboutMe</title>
+      <link>https://evanzijianhe.github.io/about/</link>
+      <pubDate>Sun, 28 Aug 2022 21:00:00 -0400</pubDate>
+      
+      <guid>https://evanzijianhe.github.io/about/</guid>
+      <description> Name: Zijian He School: Purdue University </description>
+    </item>
+    
+    <item>
+      <title>Infantry Robot</title>
+      <link>https://evanzijianhe.github.io/posts/robot/infantry/</link>
+      <pubDate>Sun, 28 Aug 2022 20:00:00 -0400</pubDate>
+      
+      <guid>https://evanzijianhe.github.io/posts/robot/infantry/</guid>
+      <description>2022 RMUL A brand-new designed🛠️ Infantry robot for RMUL in Texas A&amp;amp;M University, competing with 15 universities from the US, Canada, Mexico, and Italy.
+✨Ranked #4 in 3v3 competition in NA region.
+For detailed technical description and download CAD files, please visit Purdue RoboMaster Wiki 🖊️CAD Design 💫Battle 📸Robot Showcase &lt;!DOCTYPE HTML&gt; &lt;!DOCTYPE HTML&gt; &lt;!DOCTYPE HTML&gt; 2022 ICRA This Infantry robot is an updated version from the robot for 2019 RMUC.</description>
+    </item>
+    
+    <item>
+      <title>Hero Robot</title>
+      <link>https://evanzijianhe.github.io/posts/robot/hero/</link>
+      <pubDate>Sat, 27 Aug 2022 14:57:28 -0400</pubDate>
+      
+      <guid>https://evanzijianhe.github.io/posts/robot/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineer Robot</title>
+      <link>https://evanzijianhe.github.io/posts/robot/engineer/</link>
+      <pubDate>Fri, 26 Aug 2022 14:57:28 -0400</pubDate>
+      
+      <guid>https://evanzijianhe.github.io/posts/robot/engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cats</title>
+      <link>https://evanzijianhe.github.io/posts/cats/cats/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://evanzijianhe.github.io/posts/cats/cats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://evanzijianhe.github.io/posts/tech/tech/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://evanzijianhe.github.io/posts/tech/tech/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
