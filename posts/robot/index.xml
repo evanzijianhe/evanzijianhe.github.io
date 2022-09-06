@@ -2,37 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🤖Robot on Zijian&#39;s Homepage</title>
-    <link>https://evanzijianhe.github.io/posts/robot/</link>
+    <link>evanzijianhe.github.io/posts/robot/</link>
     <description>Recent content in 🤖Robot on Zijian&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Aug 2022 20:00:00 -0400</lastBuildDate><atom:link href="https://evanzijianhe.github.io/posts/robot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 20:00:00 -0400</lastBuildDate><atom:link href="evanzijianhe.github.io/posts/robot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infantry Robot</title>
-      <link>https://evanzijianhe.github.io/posts/robot/infantry/</link>
+      <link>evanzijianhe.github.io/posts/robot/infantry/</link>
       <pubDate>Sun, 28 Aug 2022 20:00:00 -0400</pubDate>
       
-      <guid>https://evanzijianhe.github.io/posts/robot/infantry/</guid>
+      <guid>evanzijianhe.github.io/posts/robot/infantry/</guid>
       <description>2022 RMUL A brand-new designed🛠️ Infantry robot for RMUL in Texas A&amp;amp;M University, competing with 15 universities from the US, Canada, Mexico, and Italy.
 ✨Ranked #4 in 3v3 competition in NA region.
-For detailed technical description and download CAD files, please visit Purdue RoboMaster Wiki 🖊️CAD Design 💫Battle 📸Robot Showcase &lt;!DOCTYPE HTML&gt; &lt;!DOCTYPE HTML&gt; &lt;!DOCTYPE HTML&gt; 2022 ICRA This Infantry robot is an updated version from the robot for 2019 RMUC.</description>
+For detailed technical description and download CAD files, please visit Purdue RoboMaster Wiki 🖊️CAD 💫Battle 📸Robot Showcase &lt;!DOCTYPE HTML&gt; &lt;!DOCTYPE HTML&gt; &lt;!DOCTYPE HTML&gt; 2022 ICRA This Infantry robot is an updated version from the robot for 2019 RMUC.</description>
     </item>
     
     <item>
       <title>Hero Robot</title>
-      <link>https://evanzijianhe.github.io/posts/robot/hero/</link>
+      <link>evanzijianhe.github.io/posts/robot/hero/</link>
       <pubDate>Sat, 27 Aug 2022 14:57:28 -0400</pubDate>
       
-      <guid>https://evanzijianhe.github.io/posts/robot/hero/</guid>
-      <description></description>
+      <guid>evanzijianhe.github.io/posts/robot/hero/</guid>
+      <description>2019 RMUL I only designed one Hero robot for 2019 RMUL before. We are still designing the latest version one&amp;hellip;
+🖊️CAD 📸Robot Showcase </description>
     </item>
     
     <item>
       <title>Engineer Robot</title>
-      <link>https://evanzijianhe.github.io/posts/robot/engineer/</link>
+      <link>evanzijianhe.github.io/posts/robot/engineer/</link>
       <pubDate>Fri, 26 Aug 2022 14:57:28 -0400</pubDate>
       
-      <guid>https://evanzijianhe.github.io/posts/robot/engineer/</guid>
-      <description></description>
+      <guid>evanzijianhe.github.io/posts/robot/engineer/</guid>
+      <description>2019 RMUL I only designed one engineer robot for the RMUL competition in 2019. After that, our team participated 3v3 and 1v1 in NA region, so engineer robot is not required.
+🖊️CAD The main task for engineer robot is to 🦾obtain the boxes in resource island, which includes large projectiles for Hero robot. The robot has to climb two high stair to reach to the boxes, so we chose a leg structure which is powered by two large air cylinder.</description>
     </item>
     
   </channel>
